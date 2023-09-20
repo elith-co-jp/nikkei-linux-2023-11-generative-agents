@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "generative_agents"
+version = "0.1.0"
+description = ""
+authors = []
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.12"
+langchain = "^0.0.295"
+openai = "^0.28.0"
+notebook = "^7.0.3"
+python-dotenv = "^1.0.0"
+tiktoken = "^0.5.1"
+faiss-cpu = "^1.7.4"
+gradio = "^3.44.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
