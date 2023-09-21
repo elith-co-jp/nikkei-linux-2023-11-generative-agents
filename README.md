@@ -48,13 +48,13 @@ gradio = "^3.44.4"
 - GNU Affero General Public License v3.0ライセンスです。
 
 ## 参考文献・注釈
-記事内で参照した参考文献です。記事内では `[3]` と記載があれば、以下の `[3]` の参考文献や注釈を参照しています。
+記事内で参照した参考文献です。記事内では `＊3` と記載があれば、以下の `＊3` の参考文献や注釈を参照しています。
 
-- [1] https://arxiv.org/abs/2304.03442
-- [2] ザ・シムズ（The Sims）」は仮想の人々の日常生活を制御・管理するライフシミュレーションゲームで、プレイヤーはキャラクターの家、仕事、関係を築いていきます。その豊富なカスタマイズと拡張パックで非常に人気があります。
-- [3]] https://github.com/langchain-ai/langchain
-- [4] https://www.inworld.ai/   
-- [5] https://reverie.herokuapp.com/arXiv_Demo/
+- ＊1 https://arxiv.org/abs/2304.03442
+- ＊2 ザ・シムズ（The Sims）」は仮想の人々の日常生活を制御・管理するライフシミュレーションゲームで、プレイヤーはキャラクターの家、仕事、関係を築いていきます。その豊富なカスタマイズと拡張パックで非常に人気があります。
+- ＊3 https://github.com/langchain-ai/langchain
+- ＊4 https://www.inworld.ai/   
+- ＊5 https://reverie.herokuapp.com/arXiv_Demo/
 
 
 
