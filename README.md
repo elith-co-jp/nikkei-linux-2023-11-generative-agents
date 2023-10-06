@@ -2,6 +2,9 @@
 ## 概要
 2023年10月6日に日経BPから出版される**日経Linux2023年11月号**のLLM特集の「LLMによる生成エージェントの世界」特集のサポートページです。 
 
+<img src="https://m.media-amazon.com/images/I/81AR8Bmk27L._SL1390_.jpg" alt="日経Linux 2023年 11 月号" width="600" height="450" />
+
+
 ## 学習コード
 ### 動作環境
 - デモはGradioを用いて行うことができます。
